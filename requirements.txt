@@ -1,0 +1,4 @@
+langgraph
+langchain
+dotenv
+ipykernel # For Jupyter Notebook support
