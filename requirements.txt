@@ -2,3 +2,5 @@ langgraph
 langchain
 dotenv
 ipykernel # For Jupyter Notebook support
+groq # For Groq integration
+langchain-groq
